@@ -1,0 +1,39 @@
+Download the .iso image file that you will need to burn at:
+
+http://www.adrive.com/public/811910a4086226b670481d580906d5fbc15611cae9ae01805d38663df4ac26d5.html
+
+
+To verify the download, see the .md5sum file.  
+
+
+
+Follow instructions on how to create a live USB or live CD: 
+
+    http://www.ubuntu.com/desktop/get-ubuntu/download
+
+Click the appropriate options in section 2, then click "Show Me How".
+
+
+The USB option will allow you create persistent storage so that you won't lose your files after you reboot. If you have at least a USB 2.0 connection, the environment runs surprisingly speedily, and you'll have a nice portable, self-contained environment which you can just pop into a USB port and run off most any PC.  Don't forget to allocate persistence space for local file storage.  I tested on a 4GB unit, which leaves plenty of room for storage and OS updates.  
+
+The live CD option will allow you to boot and run the environment, but you'll have to store your project files elsewhere, perhaps on the hard drive.  It runs relatively slowly, being CD based.  But if you know your way around the hard drive file system it's doable.  It's also useful if you want to take a quick look at the environment and run it to see how it works.  It should run on any computer that will boot from a CD.  
+
+If you are running the image under a virtual machine, you need to know what to do for your particular environment.
+
+
+If you're using the Windows creation method, choose "Ubuntu-10.04.1" as your Linux distro, then browse to where you downloaded the "ubuntu-10.04.1-ror-distro.iso" file.  
+
+See for more info: http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
+
+You may need to first configure your BIOS to boot from CD or USB devices.  Boot and choose the "live" option to run the distro.  You can also install the distro to your hard drive using the install option, should you decide you wish to do so.
+
+Login is "student", the password is "student". 
+
+As always, especially if you are unfamiliar with performing such procedures, it is advisable to do a full backup of your files just in case something goes awry.  I make no guarantees and I take no responsibility for any damages.
+
+Happy coding.
+
+
+Thanks go to Tony Brijeski for the Remastersys utility which was used to create this distro. http://www.remastersys.com/
+
+
