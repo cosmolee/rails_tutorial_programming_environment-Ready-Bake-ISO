@@ -23,6 +23,8 @@ If you are running the image under a virtual machine, you need to know what to d
 
 If you're using the Windows creation method, choose "Ubuntu-10.04.1" as your Linux distro, then browse to where you downloaded the "ubuntu-10.04.1-ror-distro.iso" file.  
 
+Note: at the moment the file is named "custom.iso".  You need to rename it to "ubuntu-10.04.1-ror-distro.iso", until I fix this...
+
 See for more info: http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
 
 You may need to first configure your BIOS to boot from CD or USB devices.  Boot and choose the "live" option to run the distro.  You can also install the distro to your hard drive using the install option, should you decide you wish to do so.
@@ -31,9 +33,16 @@ Login is "student", the password is "student".
 
 As always, especially if you are unfamiliar with performing such procedures, it is advisable to do a full backup of your files just in case something goes awry.  I make no guarantees and I take no responsibility for any damages.
 
+
+If you have any comments or issues, please post to the GetSatisfaction thread, where there are likely to be more eyes viewing this topic:  
+
+    http://getsatisfaction.com/railstutorial/topics/rails_tutorial_programming_environment_ready_bake_version_linux_win_or_mac
+
 Happy coding.
 
 
 Thanks go to Tony Brijeski for the Remastersys utility which was used to create this distro. http://www.remastersys.com/
 
+
+-Cosmo Lee
 
