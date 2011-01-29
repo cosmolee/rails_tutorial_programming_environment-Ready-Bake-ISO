@@ -1,6 +1,6 @@
-Download the .iso image file that you will need to burn at:
+Download the ubuntu-10.04.1-ror-distro.iso image file that you will need to burn at:
 
-http://www.adrive.com/public/811910a4086226b670481d580906d5fbc15611cae9ae01805d38663df4ac26d5.html
+http://www.adrive.com/public/ecdb9faac58004ff52d216a8b1879f6e0ce4f27c7e10f401cff6aec591cfbf19.html
 
 
 To verify the download, see the .md5sum file.  
@@ -16,14 +16,13 @@ Click the appropriate options in section 2, then click "Show Me How".
 
 The USB option will allow you create persistent storage so that you won't lose your files after you reboot. If you have at least a USB 2.0 connection, the environment runs surprisingly speedily, and you'll have a nice portable, self-contained environment which you can just pop into a USB port and run off most any PC.  Don't forget to allocate persistence space for local file storage.  I tested on a 4GB unit, which leaves plenty of room for storage and OS updates.  
 
-The live CD option will allow you to boot and run the environment, but you'll have to store your project files elsewhere, perhaps on the hard drive.  It runs relatively slowly, being CD based.  But if you know your way around the hard drive file system it's doable.  It's also useful if you want to take a quick look at the environment and run it to see how it works.  It should run on any computer that will boot from a CD.  
+The live CD option will allow you to boot and run the environment, but you'll have to store your project files elsewhere, perhaps on the hard drive.  It runs relatively slowly, being CD based.  But if you know your way around the hard drive file system it's doable.  It's also useful if you just want to take a quick look at the environment and run it to see how it works.  It should run on any computer that will boot from a CD.  
 
 If you are running the image under a virtual machine, you need to know what to do for your particular environment.
 
 
-If you're using the Windows creation method, choose "Ubuntu-10.04.1" as your Linux distro, then browse to where you downloaded the "ubuntu-10.04.1-ror-distro.iso" file.  
+If you're using the Windows creation method, choose "Ubuntu-10.04.1" as your Linux distro, then browse to where you downloaded the ISO file.  
 
-Note: at the moment the file is named "custom.iso".  You need to rename it to "ubuntu-10.04.1-ror-distro.iso", until I fix this...
 
 See for more info: http://www.pendrivelinux.com/universal-usb-installer-easy-as-1-2-3/
 
