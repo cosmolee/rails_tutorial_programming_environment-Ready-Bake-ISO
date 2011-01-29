@@ -13,7 +13,6 @@ If you have any comments or questions, please post at:
     http://getsatisfaction.com/railstutorial/topics/rails_tutorial_programming_environment_ready_bake_version_linux_win_or_mac
 
 
-
 To begin, see the "Instructions" file for this project.
 
 Tip: Click the "Downloads" button to copy all the needed files to your computer in one shot.
