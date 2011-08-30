@@ -32,6 +32,9 @@ Login is "student", the password is "student".
 As always, especially if you are unfamiliar with performing such procedures, it is advisable to do a full backup of your files just in case something goes awry.  I make no guarantees and I take no responsibility for any damages.
 
 
+The distro contains the WiFi drivers for some chipsets.  If it doesn't have support for the one on your laptop you'll have to plug in an ethernet connection and install them manually.  If you need to do this, please let me know which ones you installed, and I will include them in the next version.  I'd be especially interested to hear if folks have success running this from a USB drive on a Mac, as I don't have access to one to test with.
+
+
 If you have any comments or issues, please post to the GetSatisfaction thread, where there are likely to be more eyes viewing this topic:  
 
     http://getsatisfaction.com/railstutorial/topics/rails_tutorial_programming_environment_ready_bake_version_linux_win_or_mac
